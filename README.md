@@ -51,3 +51,10 @@ pip3 install -r requirements.txt
 ```
 
 Abra o projeto no VS code ou outro de sua preferência.
+
+1) O notebook exploratory_data_analysis contem as análises para as questões 1 e 3.
+2) O notebool training_model contem o treinamento do modelo solicitado na questão 2.
+
+**IMPORTANTE** Ao abrir um notebook, verifique se o kernel Python 3.8 (venv) está selecionado. O Kernel fica no canto superior direito do Notebook.
+
+**OBSERVAÇÃO** Caso não tenha o VS Code instalado, outra opção é executar no Jupyter Lab
