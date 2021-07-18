@@ -2,22 +2,14 @@
 
 **Case de análise de dados para descobrir quantas pessoas nos EUA não usam internet em banda larga**
 
-O case aborda o problema do acesso à internet nos Estados Unidos. 
+Não é novidade que vivemos em um mundo conectado pela internet. Temos acesso fácil e rápido a informação, podemos assistir nossas séries preferidas no Netflix, ouvir nossas músicas no Spotify, conversar com nossos amigos e familiares pelo Zoom ou WhatsApp. Mas enquanto alguns têm tudo isso na palma da mão, outros sofrem sem acesso à internet com o mínimo de qualidade.
 
-No território norte-americano, por exemplo, reuniões do conselho municipal ou de processos judiciais tornaram-se quase inacessíveis para qualquer pessoa cuja conexão não
-possa suportar uma chamada no Zoom. Alguns distritos escolares começaram a fornecer pontos de acesso Wi-Fi para alunos sem uma conexão doméstica confiável. Em outros distritos, as crianças se instalam nos estacionamentos do McDonald's apenas para obter um sinal confiável o suficiente para fazer o dever de casa.
+Na pandemia que estamos enfrentando, essa diferença ficou ainda mais evidente. Hoje, muitos dependem de uma boa conectividade para trabalhar, estudar ou acessar algum serviço necessário. 
 
-Além da questão do acesso, ainda existe o problema da qualidade do sinal. Para ser considerada banda larga a velocidade mínima de download é de 25Mbps, limite ainda considerado baixo para internet de alta qualidade.
+Nesse cenário, a análise de dados pode contribuir para o aumento da cobertura da banda larga. Sendo assim, tenho o objetivo de definir uma estratégia para promover a expansão da banda larga. E, para tanto, os seguintes objetivos específicos foram cumpridos:
 
-## Objetivo
-
-Propor uma solução para aumentar o número de pessoas com acesso à banda larga nos Estados Unidos
-
-**Objetivos específicos:**
-
-* Descobrir onde estão as pessoas sem acesso à banda larga e por que elas não têm acesso;
-* Encontrar CEPs que não têm informações de acesso à banda larga e estimar quantas pessoas nestes CEPs estão sem acesso.
-
+1) Descobrir onde estão as pessoas sem acesso à banda larga;
+2) Estimar quantas pessoas estão sem acesso à banda larga em um determinado CEP.
 
 ## Base de Dados
 
@@ -57,4 +49,4 @@ Abra o projeto no VS code ou outro de sua preferência.
 
 **IMPORTANTE** Ao abrir um notebook, verifique se o kernel Python 3.8 (venv) está selecionado. O Kernel fica no canto superior direito do Notebook.
 
-**SUGESTÃO** Caso não queria instalar o VS Code, outra opção é executar no Jupyter Lab
+**SUGESTÃO** Caso não queria instalar o VS Code, outra opção é executar o projeto no Jupyter Lab
