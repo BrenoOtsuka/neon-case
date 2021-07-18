@@ -1,6 +1,6 @@
 # Neon Pagamentos | Case Técnico - Analista de Dados Pleno
 
-**Caso de análise de dados para descobrir quantas pessoas nos EUA não usam internet em banda larga**
+**Case de análise de dados para descobrir quantas pessoas nos EUA não usam internet em banda larga**
 
 O case aborda o problema do acesso à internet nos Estados Unidos. 
 
